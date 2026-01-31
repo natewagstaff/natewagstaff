@@ -1,16 +1,40 @@
-## Hi there 👋
+Nathan Wagstaff
 
-<!--
-**natewagstaff/natewagstaff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm Nathan Wagstaff, a student at Brigham Young University–Idaho with a strong interest in software development, quality assurance, and building reliable, user-focused applications. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+🎓 Currently pursuing a Bachelor’s degree in Software Development
+
+🧪 Working as a Software Quality Assurance Analyst, testing autonomous vehicle systems
+
+💻 Background in web development and hands-on experience with modern frameworks
+
+🎯 My goal is to transition into a software development role, bringing a QA mindset to writing clean, maintainable code
+
+💬 Ask me about QA workflows, Jira, end-to-end testing, or React-based projects
+
+Technologies and Tools
+
+Languages & Frameworks:
+Python, JavaScript, HTML/CSS, React, React Native, Next.js, C#
+
+Databases & Backend:
+MySQL, Flask
+
+Tools & Platforms:
+GitHub, Jira, TestLink, Heroku, VS Code, Visual Studio, PyCharm
+
+Operating Systems:
+macOS, Windows
+
+Let’s Connect!
+
+💼 LinkedIn: https://www.linkedin.com/in/nate-wagstaff-44381b1a7/
+
+💻 GitHub: You’re already here 😄
+
+Feel free to explore my repositories and reach out if you’d like to collaborate or connect.
+Happy coding! 🚀
